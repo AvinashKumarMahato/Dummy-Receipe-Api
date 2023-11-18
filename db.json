@@ -1,4 +1,5 @@
-[
+{
+  "recipes": [
     {
       "id": 1,
       "title": "Spaghetti Bolognese",
@@ -62,3 +63,4 @@
       "image": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
   ]
+}
